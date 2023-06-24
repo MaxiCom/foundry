@@ -28,7 +28,7 @@ To use the ``make:*`` commands from this bundle, ensure
 Same Entities used in these Docs
 --------------------------------
 
-For the remainder of the documentation, the following sample entities will be used:
+For the reminder of the documentation, the following sample entities will be used:
 
 .. code-block:: php
 
